@@ -1,63 +1,57 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-= Vivek Gupta
+= Nadim Ghaddar
 
 ~~~
-{}{img_left}{images/myPic2.jpeg}{Picture of me}{200}{200}{}
-*Vivek Gupta* \n
-/Postdoctoral Researcher/\n
-/[https://cogcomp.seas.upenn.edu/ Cognitive Computation Group], [https://www.upenn.edu/ University of Pennsylvania]/ \n
-# /[https://www.cis.upenn.edu Computer and Information Science]/\n
-# /[https://www.upenn.edu/ University of Pennsylvania]/\n\n
-/Advisor:/ [https://www.cis.upenn.edu/~danroth/  Prof. Dan Roth]\n
-[docs/resume.pdf Curriculum Vitae] (Last Update: Jul, 2023), [https://scholar.google.com/citations?user=Bs5H0S4AAAAJ&hl=en Google Scholar]\n
+{}{img_left}{images/Photo1.jpg}{Picture of me}{200}{200}{}
+*Nadim Ghaddar* \n
+/Postdoctoral Research Fellow/\n
+/[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering], [https://www.utoronto.ca/ University of Toronto]/ \n
+/Advisor:/ [https://www.comm.utoronto.ca/~weiyu/  Prof. Wei Yu]\n
+# [docs/resume.pdf Curriculum Vitae] (Last Update: Jul, 2023), [https://scholar.google.com/citations?user=Bs5H0S4AAAAJ&hl=en Google Scholar]\n
 
-/Ph.D. Computer Science/ \n
-[https://nlp.cs.utah.edu/people/ Utah NLP Group]  \n
-[http://www.cs.utah.edu/ Kahlert School of Computing], [https://www.utah.edu/ University of Utah] \n
-#[https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022/ Bloomberg Data Science Fellow]\n
-# /Club Coordinator/ \n
-# [http://datascience.utah.edu/club.html Data Science Club], [https://www.utah.edu/ University of Utah] \n
-/Advisor:/ [https://svivek.com/ Prof. Vivek Srikumar]\n
-/Bloomberg Fellowship 2021-23:/ (Fellowship Mentor: Dr. [https://imsure318.github.io/ Shuo Zhang])\n
-# /Committee (Internal):/ [https://svivek.com/ Prof. Vivek Srikumar], [https://www.cs.utah.edu/~jeffp/ Prof. Jeff Phillips], [http://www.cs.utah.edu/~riloff/ Prof. Ellen Riloff]\n
-# /Committee (External):/ [https://sites.cs.ucsb.edu/~william/ Prof. William Wang], [https://www.cs.unc.edu/~mbansal/ Prof. Mohit Bansal]\n
-[https://vgupta123.github.io/docs/phd_thesis.pdf Dissertation], [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing Defense PPT]
+# /Ph.D. Computer Science/ \n
+# [https://nlp.cs.utah.edu/people/ Utah NLP Group]  \n
+# [http://www.cs.utah.edu/ Kahlert School of Computing], [https://www.utah.edu/ University of Utah] \n
+# /Advisor:/ [https://svivek.com/ Prof. Vivek Srikumar]\n
+# /Bloomberg Fellowship 2021-23:/ (Fellowship Mentor: Dr. [https://imsure318.github.io/ Shuo Zhang])\n
+# [https://vgupta123.github.io/docs/phd_thesis.pdf Dissertation], [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing Defense PPT]
+
+== About Me
+I am currently a postdoctoral research fellow at the [https://www.utoronto.ca/ University of Toronto], hosted by [https://www.comm.utoronto.ca/~weiyu/ Prof. Wei Yu]. Prior to joining the 
+  University of Toronto, I received my Ph.D. in [https://ece.ucsd.edu/ Electrical Engineering] from the University of California San Diego, where I was extremely fortunate to be advised by 
+  [https://web.eng.ucsd.edu/~yhk/ Prof. Young-Han Kim] and [http://cwc.ucsd.edu/people/laurence-b-milstein Prof. Laurence B. Milstein]. My research interests lie broadly in the 
+  intersections of information theory, coding theory, wireless communication and signal processing.
+\n\n
+Check out my [docs/CV.pdf CV] for more details.
 
 
-~~~
-\n \n 
-Welcome to my homepage. You will find my contact details, articles and talks of mine on this site. Please follow the links on the left-hand menu to navigate. 
-\n \n
-If you want to discuss about anything, please email me at [keviv9@gmail.com gmail-id] after inspecting my [https://bit.ly/3tQxVPg calender] for available slots. 
-\n \n
-Please go over this [https://vgupta123.github.io/docs/anc_iitk.pdf vlog] before emailing me regarding the Ph.D. applications, my research trajectory, and general research queries or career queries etc. See official vlog archive [https://web.archive.org/web/20220516080158/https://anciitk.in/blog/care/4/ here] and full video [https://www.youtube.com/watch?v=s0EuIgWt6Mc&t=3654s&ab_channel=VivekGupta here].
+# ~~~
+# \n \n 
+# Welcome to my homepage. You will find my contact details, articles and talks of mine on this site. Please follow the links on the left-hand menu to navigate. 
+# \n \n
+# If you want to discuss about anything, please email me at [keviv9@gmail.com gmail-id] after inspecting my [https://bit.ly/3tQxVPg calender] for available slots. 
+# \n \n
+# Please go over this [https://vgupta123.github.io/docs/anc_iitk.pdf vlog] before emailing me regarding the Ph.D. applications, my research trajectory, and general research queries or career queries etc. See official vlog archive [https://web.archive.org/web/20220516080158/https://anciitk.in/blog/care/4/ here] and full video [https://www.youtube.com/watch?v=s0EuIgWt6Mc&t=3654s&ab_channel=VivekGupta here].
 
-== Announcement
-#+I'm looking for a position in academia! If you think I'll be a good fit for your department, please contact me. Have a look at my [https://vgupta123.github.io/docs/proposal.pdf Ph.D. Proposal]. Email me on my Penn ID with appropiate subject+
+# == Announcement
+# +I'm looking for outstanding students and colleagues with NLP research experience (preferebly from UPenn) to collaborate on emerging NLP ideas. My immediate research agenda is available [https://vgupta123.github.io/docs/research_statement.pdf here].+
+# +I recently joined the [https://cogcomp.seas.upenn.edu/ Cognitive Computation Group] at [https://www.cis.upenn.edu/ UPenn CIS] school to work with [https://www.cis.upenn.edu/~danroth/ Prof. Dan Roth] as a PostDoctoral Researcher. Also engaged wit the [https://nlp.cis.upenn.edu/ Penn NLP] and the [https://priml.upenn.edu/ PRiML] group. Consider joining [https://cogcomp.seas.upenn.edu/ CCG] or [https://nlp.cis.upenn.edu/ Penn NLP] as Ph.D. or MS student.+
+# I defended my PhD thesis "Inference and Reasoning for Semi-structured Tables" on March 17 2023. My dissertation can be found [https://vgupta123.github.io/docs/phd_thesis.pdf here]. My defence talk presentation slides are [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing here].
 
-+I'm looking for outstanding students and colleagues with NLP research experience (preferebly from UPenn) to collaborate on emerging NLP ideas. My immediate research agenda is available [https://vgupta123.github.io/docs/research_statement.pdf here].+
-
-+I recently joined the [https://cogcomp.seas.upenn.edu/ Cognitive Computation Group] at [https://www.cis.upenn.edu/ UPenn CIS] school to work with [https://www.cis.upenn.edu/~danroth/ Prof. Dan Roth] as a PostDoctoral Researcher. Also engaged wit the [https://nlp.cis.upenn.edu/ Penn NLP] and the [https://priml.upenn.edu/ PRiML] group. Consider joining [https://cogcomp.seas.upenn.edu/ CCG] or [https://nlp.cis.upenn.edu/ Penn NLP] as Ph.D. or MS student.+
-
-I defended my PhD thesis "Inference and Reasoning for Semi-structured Tables" on March 17 2023. My dissertation can be found [https://vgupta123.github.io/docs/phd_thesis.pdf here]. My defence talk presentation slides are [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing here].
-
-== News
-- -/ \[July 3, 2023]\ /Will be attending and presenting at the [https://2023.aclweb.org/ ACL 2023] conference (Virtually). 
-- -/ \[June, 2023]\ /Congrats to Varun and Soumya for getting selected into [https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10 Google Pre-doctoral program].
-- -/ \[June 13, 2023]\ / I will be joining [https://cogcomp.seas.upenn.edu/ Cognitive Computation Group] at [https://www.cis.upenn.edu/ UPenn CIS] school to work with [https://www.cis.upenn.edu/~danroth/ Prof. Dan Roth] as a PostDoctoral Researcher. Will also engage with [https://nlp.cis.upenn.edu/ Penn NLP] and [https://priml.upenn.edu/ PRiML] (ML group). 
-- -/ \[June 11, 2023]\ /Interbilingual-Top got accepted at [https://sites.google.com/view/5thnlp4convai/home NLP4ConvAI] at ACL 2023.
-- -/ \[May 5, 2023]\ /Convocated (first and last), got my Ph.D. Degree, officially a Doctorate (Dr.) now.
-- -/ \[May 2, 2023]\ / InfoSync paper got accepted at ACL 2023 (Findings). Congrats, Sidharth, Chelsi, and Tushar.
-- -/ \[April 22, 2023]\ /Final Ph.D. Dissertation Approved. You can read [https://vgupta123.github.io/docs/phd_thesis.pdf  here].
-- -/ \[April 16, 2023]\ / Listen to my view on [https://youtu.be/IJBKm07Rz_k ChatGPT: AI Taking Over the Future of NLP Research?] an AI podcast. 
-- -/ \[April 12, 2023]\ /Selected as a [https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/ DAAD AInet fellow] Postdoc-NeT-AI 2023 on Generative Models in Machine Learning.
-#- -/ \ [March, 2023]\ / I received a Post Doctoral offer to work with Prof. Kai Wei Chang and Prof. Nanyung Peng at UCLA NLP . Thank you, I courteously decline.
-#- -/ \ [March, 2023]\ / I received a pre-placement offer for a full-time position at Bloomberg LP in New York Office in the Document AI team. Thank you, I courteously decline following the academic dream.
-- -/ \[March 17, 2023]\ /Ph.D. Dissertation Defended. Thanks, Prof. Vivek, Prof. Ellen, Prof. Jeff, Prof. Mohit, Prof. William. You can access the presentation [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing here].
-- -/ \[Feb 22, 2023]\ /Invited talk on Reasoning on Semi-structured Tables at [https://datascience.utah.edu/seminar.html Utah Data Science Seminar]. Thanks Prof. Jeff.
-- -/ \[Feb 20, 2023]\ /Invited talk on Reasoning on Semi-structured Tables at [https://www.cs.ucla.edu/ UCLA]. Thanks Prof. Kai Wei, Prof. Nanyun for hosting me.
-- -/ \[Feb 7-14, 2023]\ /Attended [https://aaai-23.aaai.org/ AAAI 2023] at Washington DC, USA. Thanks [https://svivek.com/ Prof. Vivek Srikumar] for sponsorship. 
-- -/ \[Jan 13, 2023]\ /Attended and presented at the [https://datascience.utah.edu/events/2023/data-science-day/ Utah Data Science Day 2023].
-- -/ \[Jan 7, 2023]\ /Invited on Semi-automatic Tabular Dataset Contruction at Bloomberg AI (26 Jan 2023).
- 
-- - [docs/news.pdf more] ..
+# == News
+# - -/ \[July 3, 2023]\ /Will be attending and presenting at the [https://2023.aclweb.org/ ACL 2023] conference (Virtually). 
+# - -/ \[June, 2023]\ /Congrats to Varun and Soumya for getting selected into [https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10 Google Pre-doctoral program].
+# - -/ \[June 13, 2023]\ / I will be joining [https://cogcomp.seas.upenn.edu/ Cognitive Computation Group] at [https://www.cis.upenn.edu/ UPenn CIS] school to work with [https://www.cis.upenn.edu/~danroth/ Prof. Dan Roth] as a PostDoctoral Researcher. Will also engage with [https://nlp.cis.upenn.edu/ Penn NLP] and [https://priml.upenn.edu/ PRiML] (ML group). 
+# - -/ \[June 11, 2023]\ /Interbilingual-Top got accepted at [https://sites.google.com/view/5thnlp4convai/home NLP4ConvAI] at ACL 2023.
+# - -/ \[May 5, 2023]\ /Convocated (first and last), got my Ph.D. Degree, officially a Doctorate (Dr.) now.
+# - -/ \[May 2, 2023]\ / InfoSync paper got accepted at ACL 2023 (Findings). Congrats, Sidharth, Chelsi, and Tushar.
+# - -/ \[April 22, 2023]\ /Final Ph.D. Dissertation Approved. You can read [https://vgupta123.github.io/docs/phd_thesis.pdf  here].
+# - -/ \[April 16, 2023]\ / Listen to my view on [https://youtu.be/IJBKm07Rz_k ChatGPT: AI Taking Over the Future of NLP Research?] an AI podcast. 
+# - -/ \[April 12, 2023]\ /Selected as a [https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/ DAAD AInet fellow] Postdoc-NeT-AI 2023 on Generative Models in Machine Learning.
+# - -/ \[March 17, 2023]\ /Ph.D. Dissertation Defended. Thanks, Prof. Vivek, Prof. Ellen, Prof. Jeff, Prof. Mohit, Prof. William. You can access the presentation [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing here].
+# - -/ \[Feb 22, 2023]\ /Invited talk on Reasoning on Semi-structured Tables at [https://datascience.utah.edu/seminar.html Utah Data Science Seminar]. Thanks Prof. Jeff.
+# - -/ \[Feb 20, 2023]\ /Invited talk on Reasoning on Semi-structured Tables at [https://www.cs.ucla.edu/ UCLA]. Thanks Prof. Kai Wei, Prof. Nanyun for hosting me.
+# - -/ \[Feb 7-14, 2023]\ /Attended [https://aaai-23.aaai.org/ AAAI 2023] at Washington DC, USA. Thanks [https://svivek.com/ Prof. Vivek Srikumar] for sponsorship. 
+# - -/ \[Jan 13, 2023]\ /Attended and presented at the [https://datascience.utah.edu/events/2023/data-science-day/ Utah Data Science Day 2023].
+# - -/ \[Jan 7, 2023]\ /Invited on Semi-automatic Tabular Dataset Contruction at Bloomberg AI (26 Jan 2023).
+# - - [docs/news.pdf more] ..
