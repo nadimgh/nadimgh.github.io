@@ -2,11 +2,13 @@
 = Nadim Ghaddar
 
 ~~~
-{}{img_left}{images/Photo1.jpg}{Picture of me}{200}{200}{}
+{}{img_left}{images/Photo1.jpg}{Picture of me}{200}{250}{}
 *Nadim Ghaddar* \n
 /Postdoctoral Research Fellow/\n
-/[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering], [https://www.utoronto.ca/ University of Toronto]/ \n
-/Advisor:/ [https://www.comm.utoronto.ca/~weiyu/  Prof. Wei Yu]\n
+/[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering]/\n
+/[https://www.utoronto.ca/ University of Toronto]/ \n
+*Host:* [https://www.comm.utoronto.ca/~weiyu/  Prof. Wei Yu]\n\n
+*Email:* nghaddar at ucsd dot edu\n
 # [docs/resume.pdf Curriculum Vitae] (Last Update: Jul, 2023), [https://scholar.google.com/citations?user=Bs5H0S4AAAAJ&hl=en Google Scholar]\n
 
 # /Ph.D. Computer Science/ \n
@@ -16,6 +18,8 @@
 # /Bloomberg Fellowship 2021-23:/ (Fellowship Mentor: Dr. [https://imsure318.github.io/ Shuo Zhang])\n
 # [https://vgupta123.github.io/docs/phd_thesis.pdf Dissertation], [https://docs.google.com/presentation/d/1LDDvAdmiFGd8LCngV-NzUMsQhbLHPQlf0Ghh5xIMURc/edit?usp=sharing Defense PPT]
 
+~~~
+\n\n
 == About Me
 I am currently a postdoctoral research fellow at the [https://www.utoronto.ca/ University of Toronto], hosted by [https://www.comm.utoronto.ca/~weiyu/ Prof. Wei Yu]. Prior to joining the 
   University of Toronto, I received my Ph.D. in [https://ece.ucsd.edu/ Electrical Engineering] from the University of California San Diego, where I was extremely fortunate to be advised by 
