@@ -1,1 +1,1 @@
-"[nadimghaddar.github.io] (nadimghaddar.github.io)" 
+[nadimghaddar.github.io](https://nadimghaddar.github.io)
