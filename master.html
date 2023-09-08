@@ -5,7 +5,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Master Thesis</title>
+<title>Master Thesis</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -16,51 +16,30 @@
 <div class="menu-item"><a href="about.html">About</a></div>
 <div class="menu-category">Publications</div>
 <div class="menu-item"><a href="pubs.html">Publications</a></div>
-<div class="menu-item"><a href="master.html">Master&nbsp;Thesis</a></div>
-<div class="menu-item"><a href="phdthesis.html" class="current">Ph.D.&nbsp;Thesis</a></div>
-<div class="menu-category">Experience</div>
-<div class="menu-item"><a href="intern.html">Internships</a></div>
+<div class="menu-item"><a href="master.html" class="current">Master&nbsp;Thesis</a></div>
+<div class="menu-item"><a href="phdthesis.html">Ph.D.&nbsp;Thesis</a></div>
 <div class="menu-category">Miscellaneous</div>
 <div class="menu-item"><a href="talks.html">Talks</a></div>
-<div class="menu-item"><a href="awards.html">Awards</a></div>
 <div class="menu-item"><a href="service.html">Services</a></div>
-<div class="menu-item"><a href="mentor.html">Mentees</a></div>
 <div class="menu-item"><a href="contact.html">Contact</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Master Thesis</h1>
+<h1>Master Thesis</h1>
 </div>
-<h2>Product Categorization in E-Commerce using Distributional Semantics </h2>
-<p><i>Advisor: <a href="https://www.linkedin.com/in/harish-karnick-388b1616/">Prof. Harish Karnick</a> &amp; <a href="https://www.linkedin.com/in/pradhuman-jhala-84b41b5/">Pradhuman Jhala</a></i><br />
-Supported by <a href="https://www.flipkart.com/">Flipkart India Private Ltd.</a> (Now acquired by Walmart Inc.)</p>
-<h3>Abstract</h3>
-<p>Tagging products with path labels from a taxonomy are important for multiple tasks in e-commerce, e.g. search. Most often sellers have textual product descriptions, and we would like to automatically tag the product with a path label from a static hierarchical taxonomy (largely). The main challenge is to devise a suitable vector representation for the textual description. 
-<br /> <br />
-Product Classification involves composing semantically enriched document vectors from word vectors. Introduction of global context along with local context during word-vector training gives rise to paragraph vectors. Despite some success paragraph vectors suffer from the following logical problems:-
-<br /></p>
-<p>1. Current techniques embed paragraph vectors in the same space (dimension) despite paragraph containing multiple topics (senses).
-<br />
-2. Current techniques ignore importance and distinctiveness of words across document i.e. all words contribute equally both quantitatively (weight) and qualitatively (semantics).</p>
-<p>In this work, we handle the above problems by introducing a novel compositional technique called weighted Bag of Word-Vectors for document representation. Further, we developed a technique which uses an ensemble of multiple classifiers predicting path labels, node-wise labels, depth-wise labels to decrease classification error.
-<br /> <br />
-Our new ensemble technique exploits the catalog hierarchy and achieves improved results in top K path prediction on various metrics. We have performed experiments on the book and non-book data sets of a large e-commerce vendor and platform company. Empirically, we show that using the proposed representation and ensemble method leads to improved results.</p>
-<h3>DownLoad Links</h3>
-<p>[<a href="https://drive.google.com/file/d/0B0gqY7qPK73_YmZZSVJpNzNfVTg/view">Thesis</a>] 
-[<a href="https://drive.google.com/file/d/0B0gqY7qPK73_WmZOQndkaGVlbkE/view">PPT</a>] 
-[<a href="https://github.com/dheeraj7596/GWBoWV">Vector Code</a>] 
-[<a href="https://aclweb.org/anthology/C/C16/C16-1052.pdf">Paper</a>] 
-[<a href="https://drive.google.com/file/d/0B0gqY7qPK73_X3g4R0N0WXhqSzQ/view?usp=sharing">Poster</a>]</p>
+<h2>Connectionist Temporal Classification for Robust Speech Recognition Applications</h2>
+<p><i>Advisors:</i> <a href="https://people.idiap.ch/people/bourlard">Prof. Hervé Bourlard</a> &amp; <a href="https://www.linkedin.com/in/wilhelm-hagg-4a609963/">Dr. Wilhelm Hagg</a><br />
+Work completed at <a href="https://www.sony.de/">Sony Deutschland GmbH</a>, Stuttgart, Germany<br />
+Completed in August 2016</p>
+<h3>Abstract</h3>
+<p>Automatic Speech Recognition (ASR) is the task of converting a speech signal into the sequence of words that it incorporates, by the help of an algorithm that is implemented on computers or computerized devices. Today, ASR systems find applications in a wide range of domains, including automatic call processing in telephone networks, automatic query-based information systems, human-to-machine interaction, and many others. One of the most popular approaches followed in ASR systems is to model the temporal variability of speech signals using hiddenMarkovModel (HMM) states. In the recent years, significant progress has been made into the acoustic modelling of these states based on the training of context-dependent deep neural networks (DNN’s) with observed feature vectors extracted from the signals. The training procedure of a traditional DNN-based acoustic model requires first to obtain the state alignments of the input feature frames with the HMMphoneme states, because traditional objective functions require a network output target value for every input feature vector. Connectionist Temporal Classification (CTC) overcomes this requirement. CTC is a cost function that is well-suited for sequence labelling tasks, where large sequences of input data (e.g. input feature vectors of a speech signal) are transcribed with smaller sequences of discrete labels (e.g. phoneme labels spoken in the speech stream). On the other hand, another major factor that degrades performance of current ASR systems is background noise and reverberation in the recorded speech.
+<br /><br />
+In this work, we show the suitability of CTC training for robust speech recognition applications. We conduct experiments on public speech corpora, invoking different noise levels on the speech data, while comparing with the traditional hybrid DNN-HMM framework. Our results show that CTC is well-suited for large amounts of training data. As less amounts of information is given to the CTC-trained network compared to framewise training (i.e. the alignment of input features with target labels is not given), a larger training set is required for the network to <i>learn</i> this alignment. Once available, CTC-trained networks outperform the hybrid approach, especially for noisy data, where the confusion between input-output correlations is higher than the case of clean data. Moreover, due to its single-state modeling of target labels, CTC allows to achieve a faster decoding, compared to the context-dependent triphone-state hybrid approach. Consequently, the decoding graphs are smaller in size, which saves storage space and allows to keep a larger number of hypotheses in beam-search decoding.</p>
+<h3>DownLoad Links</h3>
+<p>[<a href="docs/master_thesis.pdf">Thesis</a>] <br />
+[<a href="docs/master_defense_slides.pdf">Defense Slides</a>]</p>
 </td>
 </tr>
 </table>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-76004868-2', 'auto');
-  ga('send', 'pageview');
-</script>
 </body>
 </html>

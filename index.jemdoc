@@ -2,7 +2,7 @@
 = Nadim Ghaddar
 
 ~~~
-{}{img_left}{images/Photo1.jpg}{Picture of me}{200}{250}{}
+{}{img_left}{images/Photo1.jpg}{Picture of me}{300}{350}{}
 *Nadim Ghaddar* \n
 /Postdoctoral Research Fellow/\n
 /[https://www.ece.utoronto.ca/ Department of Electrical and Computer Engineering]/\n
@@ -24,7 +24,7 @@
 I am currently a postdoctoral research fellow at the [https://www.utoronto.ca/ University of Toronto], hosted by [https://www.comm.utoronto.ca/~weiyu/ Prof. Wei Yu]. Prior to joining the 
   University of Toronto, I received my Ph.D. in [https://ece.ucsd.edu/ Electrical Engineering] from the University of California San Diego, where I was extremely fortunate to be advised by 
   [https://web.eng.ucsd.edu/~yhk/ Prof. Young-Han Kim] and [http://cwc.ucsd.edu/people/laurence-b-milstein Prof. Laurence B. Milstein]. My research interests lie broadly in the 
-  intersections of information theory, coding theory, wireless communication and signal processing.
+  intersections of information theory, wireless communication and signal processing.
 \n\n
 Check out my [docs/CV.pdf CV] for more details.
 
