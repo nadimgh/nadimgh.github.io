@@ -12,7 +12,7 @@ Automatic Speech Recognition (ASR) is the task of converting a speech signal int
 In this work, we show the suitability of CTC training for robust speech recognition applications. We conduct experiments on public speech corpora, invoking different noise levels on the speech data, while comparing with the traditional hybrid DNN-HMM framework. Our results show that CTC is well-suited for large amounts of training data. As less amounts of information is given to the CTC-trained network compared to framewise training (i.e. the alignment of input features with target labels is not given), a larger training set is required for the network to /learn/ this alignment. Once available, CTC-trained networks outperform the hybrid approach, especially for noisy data, where the confusion between input-output correlations is higher than the case of clean data. Moreover, due to its single-state modeling of target labels, CTC allows to achieve a faster decoding, compared to the context-dependent triphone-state hybrid approach. Consequently, the decoding graphs are smaller in size, which saves storage space and allows to keep a larger number of hypotheses in beam-search decoding.
 
 
-=== DownLoad Links
+=== Download Links
 
 \[[docs/master_thesis.pdf Thesis]\] \n
 \[[docs/master_defense_slides.pdf Defense Slides]\]

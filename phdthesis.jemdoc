@@ -11,6 +11,6 @@ Completed in November 2022
 Next-generation wireless communication systems will have to deal with an unprecedented number of communicating users and devices while enabling orders-of-magnitude of performance improvement in speed and connectivity. With the increasingly complex network structure and the high spectral efficiency requirements, it becomes extremely inefficient to rely on traditional channel coding paradigms that do not take into account the structure of the network and its inherent properties. Unlike conventional channel coding schemes that are designed under the assumption of a single sender and a single receiver communicating over a memoryless channel, this dissertation investigates low-complexity channel coding techniques that take advantage of the number of communicating devices in a network and the inherent memory in the channel. In communication over networks, low-complexity channel coding schemes that achieve the best known information theoretic performance are constructed starting from simple coding blocks. In communication over channels with memory, practical channel coding techniques that exploit the memory in the channel are developed. In both cases, the proposed coding techniques have the potential of addressing the increasing-spectral-efficiency requirement in next-generation wireless communication systems.
 
 
-=== DownLoad Links
+=== Download Links
 \[[https://escholarship.org/content/qt4bk9f3tc/qt4bk9f3tc.pdf Thesis]\] \n
 \[[docs/phd_defense.pdf Defense Slides]\] \n
