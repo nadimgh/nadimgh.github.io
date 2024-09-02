@@ -34,14 +34,14 @@ The course (roughly) follows the following schedule.\n
 ~~~
 {}{table}{SCHEDULE}
 *Week*  | *Topics* | *Text References* | *Assessment* | *Tutorial* ||
-Sept 3 | Vectors, Norms, Inner Products | Ch. 2.1-2.2 |   |  ||
-Sept 9-10  | Orthogonal Decomposition, Projection onto Subspaces, Gram-Schmidt, \n QR decomposition, Hyperplanes and Half-Spaces  | Ch. 2.2-2.3 | Homework \#1: Due Sept 24, 11:59pm \n (Word Vector, Fourier Series) | Homework \#1: \n Theory ||
-Sept 16-17 | Non-Euclidean Projection, Projection onto Affine Sets, \n Functions, Gradients and Hessians | Ch. 2.3-2.4 |  | Homework \#1: \n Applications ||
-Sept 23-24 | Matrices, Range, Null Space, Eigenvalues, \n Eigenvectors, Matrix Diagonalization | Ch. 3.1-3.5 |  Homework \#2: Due Oct 8, 11:59pm \n (Function Approximation, PageRank) | Homework \#2: \n Theory ||
-Sept 30 -\n  Oct 1 | Symmetric matrices, Orthogonal Matrices, Spectral Decomposition, \n Positive Semidefinite Matrices, Ellipsoids | Ch. 4.1-4.4 |  | Homework \#2: \n Applications ||
-Oct 7-8 | Singular Value Decomposition, \n Principal Component Analysis | Ch. 5.1, 5.3.2 | Homework \#3: Due Oct 22, 11:59pm \n (Latent Semantic Indexing, EigenFace) | Homework \#3: \n Theory ||
-Oct 15 | Interpretations of SVD | Ch. 5.2 |  | Homework \#3: \n Applications ||
-Oct 21-22 | Low-Rank Approximation, \n Midterm Review | Ch. 5.3.1 |  | Previous \n Midterm ||
+Sept 3 | Vectors, Norms, Inner Products | Ch. 2.1-2.2 |  Homework \#1: Due Sept 24, 11:59pm \n (Word Vector, Fourier Series) | Homework \#1: \n Theory ||
+Sept 9-10  | Orthogonal Decomposition, Projection onto Subspaces, Gram-\nSchmidt,  QR decomposition, Hyperplanes and Half-Spaces  | Ch. 2.2-2.3 |  | Homework \#1: \n Applications ||
+Sept 16-17 | Non-Euclidean Projection, Projection onto Affine Sets, \n Functions, Gradients and Hessians | Ch. 2.3-2.4 | Homework \#2: Due Oct 8, 11:59pm \n (Function Approximation, PageRank) | Homework \#2: \n Theory ||
+Sept 23-24 | Matrices, Range, Null Space, Eigenvalues, \n Eigenvectors, Matrix Diagonalization | Ch. 3.1-3.5 |   | Homework \#2: \n Applications ||
+Sept 30 -\n  Oct 1 | Symmetric matrices, Orthogonal Matrices, Spectral Decomposition, \n Positive Semidefinite Matrices, Ellipsoids | Ch. 4.1-4.4 | Homework \#3: Due Oct 22, 11:59pm \n (Latent Semantic Indexing, EigenFace) | Homework \#3: \n Theory ||
+Oct 7-8 | Singular Value Decomposition, \n Principal Component Analysis | Ch. 5.1, 5.3.2 |  | Homework \#3: \n Applications ||
+Oct 15 | Interpretations of SVD, Low-Rank Approximation | Ch. 5.2, 5.3.1 |  | Previous \n Midterm ||
+Oct 21-22 | Midterm Review |  | *Midterm:* \n *Tuesday, October 22, 2024* |  ||
 Oct 28-29 | *Study Break,* \n *No Classes* |   |   |   ||
 Nov 4-5  | Least Squares, Overdetermined and \n Underdetermined Linear Equations | Ch. 6.1-6.4 | Homework \#4: Due Nov 19, 11:59pm \n (Optimal Control, CAT Scan) | Homework \#4: \n Theory ||
 Nov 11-12 | Regularized Least-Squares, \n Convex Sets and Convex Functions | Ch. 6.7.3,\n Ch. 8.1-8.4 |   | Homework \#4: \n Applications ||
