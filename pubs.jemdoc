@@ -2,15 +2,16 @@
 = Publications
 
 == Submitted Preprints
-- *Active MIMO Sensing With Exploration-Exploitation Tradeoff*\n
+- *Active MIMO Sensing: Optimality Conditions and Exploration-Exploitation Tradeoff*\n
 *Nadim Ghaddar*, Kareem M. Attiah, Wei Yu\n
 \[[https://arxiv.org/abs/2604.17582 Paper]\]
-- *Noisy Computing of the Threshold Function*\n
-Ziao Wang\*, *Nadim Ghaddar*\*, Banghua Zhu\*, Lele Wang\n
-\[[https://arxiv.org/abs/2403.07227 Paper]\]
 
 
 == Journal Publications
+- *Noisy Computing of the Threshold Function*\n
+Ziao Wang\*, *Nadim Ghaddar*\*, Banghua Zhu\*, Lele Wang\n
+published in [https://www.itsoc.org/it-trans /IEEE Transactions on Information Theory/], 2026\n
+\[[https://ieeexplore.ieee.org/abstract/document/11643943 Paper]\]
 - *Low-Complexity Coding Techniques for Cloud Radio Access Networks* \n
 *Nadim Ghaddar*, Lele Wang\n
 published in [https://www.itsoc.org/jsait /IEEE Journal on Selected Areas in Information Theory/], 2024\n
