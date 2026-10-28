@@ -1,6 +1,14 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Invited Talks
 
+- *Sensing Codebook Design for Structured Sparse Recovery Problems*\n
+[https://cwit.ca/2026/ /Canadian Workshop on Information Theory (CWIT)/]\n
+Dalhousie University, Halifax, Canada, June 2026\n
+\[[docs/cwit2026_pres.pdf Slides]\]
+- *On-Grid Angle-of-Arrival Estimation in Large-Scale MIMO Systems Using Channel Codes*\n
+[https://infotheory.ca/bsc2025/ /Biennial Symposium on Communications (BSC)/]\n
+Université de Sherbrooke, Sherbrooke, Canada, June 2025\n
+\[[docs/bsc2025_pres.pdf Slides]\]
 - *Noisy Computing of the Threshold Function*\n
 [https://vectorinstitute.swoogo.com/remarkable-2025 /Remarkable 2025 Event/]\n
 Vector Institute, Toronto, Canada, March 2025\n
