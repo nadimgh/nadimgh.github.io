@@ -1,1 +1,1 @@
-python jemdoc3.py <file>.jemdoc
+python jemdoc3.py -c analytics.conf <file>.jemdoc
